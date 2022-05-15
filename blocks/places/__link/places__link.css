@@ -1,0 +1,17 @@
+.places__link {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 22px;
+    font-family: 'Inter';
+    text-align: left; 
+    max-width: 464px;
+    min-width: 320px;
+    width: 100%;
+    height: 100%;
+}

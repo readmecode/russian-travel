@@ -1,0 +1,17 @@
+.lead__title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 96px;
+    color: #FFFFFF;
+    line-height: 100px;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: content-box;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+}

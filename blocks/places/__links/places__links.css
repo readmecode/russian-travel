@@ -1,0 +1,7 @@
+.places__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: flex-end;
+    padding-bottom: 48px;
+}

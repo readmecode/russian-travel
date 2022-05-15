@@ -1,0 +1,17 @@
+.places__item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 984px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 80px;
+    box-sizing: border-box;
+}
+
+.places__item:nth-of-type(5) {
+    margin-bottom: 0px;
+}

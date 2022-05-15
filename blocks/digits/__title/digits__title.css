@@ -1,0 +1,14 @@
+.digits__title {
+    display: flex;
+    justify-content: left;
+    color: #FFFFFF;
+    max-width: 720px;
+    min-height: 58px;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 54px;
+    line-height: 58px;
+    font-family: 'Inter';
+    text-align: left; 
+    z-index: 3;
+}

@@ -6,12 +6,22 @@
     font-size: 72px;
     color: #FFFFFF;
     line-height: 76px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     text-align: center;
     text-decoration: none;
     position: relative;
     z-index: 1;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 32px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width: 680px) {
+    .cover__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
 }

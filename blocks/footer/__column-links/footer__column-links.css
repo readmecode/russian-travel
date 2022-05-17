@@ -12,5 +12,17 @@
     font-size: 16px;
     color: #FFFFFF;
     line-height: 18px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
+}
+
+@media screen and (max-width: 680px) {
+    .footer__column-links {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .footer__column-links {
+        flex-direction: column;
+    }
 }

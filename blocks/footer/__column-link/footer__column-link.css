@@ -6,7 +6,7 @@
     text-align: left;
 }
 
-.footer__column-link: :last-of-type {
+.footer__column-link:last-of-type {
     margin-right: 0px;
 }
 

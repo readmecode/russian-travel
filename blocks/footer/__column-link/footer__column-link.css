@@ -5,3 +5,19 @@
     margin-right: 18px;
     text-align: left;
 }
+
+.footer__column-link: :last-of-type {
+    margin-right: 0px;
+}
+
+@media screen and (max-width: 680px) {
+    .footer__column-link {
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 32px;
+    }
+
+    .footer__column-links:last-of-type {
+        margin-bottom: 16px;
+    }
+}

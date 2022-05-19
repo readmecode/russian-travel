@@ -10,4 +10,15 @@
     padding-top: 32px;
     color: #FFFFFF;
     z-index: 1;
+    text-align: center;
+}
+
+@media screen and (max-width: 680px) {
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+        max-width: 288px;
+        text-align: center;
+        padding-top: 16px;
+    }
 }

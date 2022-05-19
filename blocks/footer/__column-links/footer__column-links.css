@@ -1,6 +1,5 @@
 .footer__column-links {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     height: 100%;
     box-sizing: border-box;

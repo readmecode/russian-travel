@@ -5,4 +5,11 @@
   max-height: 52px;
   max-width: 1184px;
   padding-top: 28px;
+  
+}
+
+@media screen and (max-width: 680px) {
+  .header {
+    padding-top: 16px;
+  }
 }

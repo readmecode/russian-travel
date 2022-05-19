@@ -4,4 +4,6 @@
     flex-wrap: wrap;
     justify-content: flex-start;
     max-width: 984px;
+    margin: 0 auto;
+    padding-bottom: 92px;
 }

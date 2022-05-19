@@ -1,8 +1,4 @@
 .photo-grid__pic {
-    height: 213px;
-    width: 284px;
-}
-
-.photo-grid__pic:last-of-type {
-    padding-right: 0;
+    width: 100%;
+    object-fit: cover;
 }

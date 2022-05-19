@@ -22,7 +22,7 @@
 @import url("../blocks/digits/digits.css");
 @import url("../blocks/digits/__numbers/digits__numbers.css");
 @import url("../blocks/digits/__data/digits__data.css");
-@import url("../blocks/digits/__data/_span-accent/digits__data_span-accent.css");
+@import url("../blocks/digits/__span-accent/digits__span-accent.css");
 @import url("../blocks/digits/__text/digits__text.css");
 @import url("../blocks/digits/__title/digits__title.css");
 
@@ -48,10 +48,3 @@
 @import url("../blocks/footer/__column-link/footer__column-link.css");
 @import url("../blocks/footer/__column-links/footer__column-links.css");
 @import url("../blocks/footer/__column/footer__column.css");
-
-@import url("../blocks/content/__section/content__section.css");
-@import url("../blocks/content/__section/_tablet_wide/content__section_tablet_wide");
-@import url("../blocks/content/__section/_laptop_wide/content__section_laptop_wide.css");
-@import url("../blocks/content/__section/_mobile_wide/content__section_mobile_wide.css");
-@import url("../blocks/content/__section/_desktop_narrow/content__section_desktop_narrow.css");
-@import url("../blocks/content/content.css");

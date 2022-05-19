@@ -1,9 +1,7 @@
 .footer__column {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    min-height: 18px;
     max-width: 1184px;
     padding-top: 92px;
     padding-bottom: 24px;

@@ -1,6 +1,5 @@
 .places__item {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: flex-start;
@@ -12,7 +11,7 @@
     box-sizing: border-box;
 }
 
-.places__item:nth-of-type(5) {
+.places__item:last-of-type {
     margin: 0;
     padding: 0;
     margin-bottom: 0px;

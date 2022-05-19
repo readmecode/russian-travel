@@ -1,5 +1,6 @@
 .page__header {
     padding: 0 48px;
+    max-width: 1184px;
 }
 
 @media screen and (max-width: 984px) {

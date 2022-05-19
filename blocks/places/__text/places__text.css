@@ -9,11 +9,13 @@
     line-height: 30px;
     font-family: 'Inter', 'Arial', sans-serif;
     text-align: left;
-    max-width: 480px;
-    height: 100%;
-    width: 100%;
+    max-width: 484px;
     box-sizing: border-box;
     padding-bottom: 26px;
+}
+
+.places__text:last-of-type {
+    padding-bottom: 0px;
 }
 
 @media screen and (max-width: 680px) {

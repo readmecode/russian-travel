@@ -16,3 +16,15 @@
     padding: 0;
     margin-bottom: 0px;
 }
+
+@media screen and (max-width: 984px) {
+    .places__item  {
+        margin-bottom: 73px;
+    }
+  }
+  
+  @media screen and (max-width: 680px) {
+    .places__item {
+        margin-bottom: 50px;
+    }
+  }
